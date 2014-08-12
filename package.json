@@ -1,6 +1,6 @@
 {
   "name": "spaceport",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "decentralized service registry for nodejs",
   "main": "index.js",
   "directories": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.3.2"
+    "mocha": "~1.17.1"
   },
   "scripts": {
     "test": "mocha --reporter list"
